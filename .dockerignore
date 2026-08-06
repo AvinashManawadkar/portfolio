@@ -1,0 +1,13 @@
+.git
+.gitignore
+.idea
+.vscode
+.settings
+.classpath
+.project
+.mvn
+target
+scratch
+*.md
+Dockerfile
+.dockerignore
